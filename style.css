@@ -1,0 +1,36 @@
+body {
+    background-color: #c0ffee;
+}
+
+#Header {
+    text-align: center;
+}
+
+#Info {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#Request {
+    background-color: #f3fffa;
+    border: ridge #00814a;
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: left;
+}
+
+#questionBox {
+    height: 200px;
+    width: 560px;
+    overflow-y: auto;
+    border: ridge #00814a;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 10px;
+    background-color: #f3fffa;;
+    resize: none;
+}
+
+input {
+    width: 98.5%;
+}
