@@ -1,4 +1,4 @@
-const questions = {
+const questions = {    // This is the array used to define what topics I want, and what questions I want to be asked. 
     equations: [
         { question: "What is the equation for kinetic energy?", answer: "Ek = 0.5 x m x v^2" },
         { question: "What is the equation for gravitational potential energy?", answer: "GPE = m x gfs x h" },
